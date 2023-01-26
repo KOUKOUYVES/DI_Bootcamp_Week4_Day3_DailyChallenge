@@ -1,0 +1,10 @@
+div{
+    height: 300px;
+    width: 100%;
+    background-color: gainsboro;
+}
+input{
+    padding: 25px;
+    width: 80%;
+    height: 25%;
+}
